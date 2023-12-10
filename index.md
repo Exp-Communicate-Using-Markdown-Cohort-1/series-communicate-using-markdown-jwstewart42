@@ -13,4 +13,4 @@ const imageDescription = "This image shows a group of young adult female dancers
 - [x] Draw my name with the cocaine
 - [x] Prepare for the fun and lively baking session
 - [x] Ensure the scene accurately represents a modern kitchen setting
-- [X] Evaluate the portrayal of humor and excitement around the baking activity as I do a line of a strippers ass
+- [ ] Evaluate the portrayal of humor and excitement around the baking activity as I do a line of a strippers ass
